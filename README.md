@@ -1,2 +1,2 @@
 # python_exercise005
-UI ＋
+UI ＋ function
